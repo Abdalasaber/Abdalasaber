@@ -1,30 +1,40 @@
-### Hi there 👋, my name is Abdalla Saber
-#### I'm a passionate Flutter developer with a knack for crafting delightful mobile experiences. I thrive on turning innovative ideas into reality through code and enjoy the creative challenge of building intuitive and polished applications.
-![I'm a passionate Flutter developer with a knack for crafting delightful mobile experiences. I thrive on turning innovative ideas into reality through code and enjoy the creative challenge of building intuitive and polished applications.](https://www.mashfrog.com/sites/default/files/2023-02/1920x1080_cover_B%20%281%29.png)
+Hi there 👋, my name is Abdalla Saber  
 
-🚀 Over the days, I've honed my skills in Flutter and Dart, diving deep into the world of mobile app development. I believe in the power of clean code and elegant design, and I'm always striving to create applications that not only function flawlessly but also captivate users with their simplicity and beauty.
+I'm a Backend Developer specializing in ASP.NET Core and building scalable, secure, and high-performance Web APIs. I focus on designing clean architectures and delivering reliable backend solutions that power modern applications.
 
-🌱 I'm a perpetual learner, constantly exploring new technologies and refining my craft. Whether it's experimenting with the latest Flutter packages, delving into advanced UI/UX design principles, or mastering efficient state management techniques, I'm always eager to expand my knowledge and push the boundaries of what's possible in mobile development.
+🚀 I have hands-on experience developing RESTful APIs using ASP.NET Core, Entity Framework Core, and SQL Server. I work with a strong focus on clean code, performance optimization, and maintainability.
 
-💼 In my professional journey, I've had the opportunity to work on a diverse range of projects, from building e-commerce apps to creating different apps platforms. Each project has been a learning experience, shaping my skills and deepening my passion for creating impactful solutions that resonate with users.
+🔐 Experienced in:
+- Authentication & Authorization (JWT)
+- Role-based access control
+- API security best practices
+- Database design & optimization
+- LINQ & Query optimization
 
-🔭 Outside of coding, you can find me enjoying sports, immersing myself in learning new things, and brainstorming innovative solutions to everyday problems. I'm driven by the desire to save time and streamline processes with efficient solutions, making life easier for others.
+🏗️ I apply Clean Architecture principles, Dependency Injection, and SOLID principles to build structured and scalable systems.
 
+💼 I've worked on projects such as ERP systems, holiday management systems, and service-based platforms where I handled backend logic, database architecture, and API integration.
 
-📫 Let's connect and collaborate! Whether you have an exciting project in mind, want to discuss the latest Flutter trends, or simply share your favorite coding playlist, I'm always open to new opportunities and meaningful conversations.
+🛠️ Tech Stack:
+- ASP.NET Core Web API
+- C#
+- Entity Framework Core
+- SQL Server
+- LINQ
+- RESTful APIs
+- Clean Architecture
+- Dependency Injection
+- Git & GitHub
+- Postman & Swagger
 
-Skills: 
-* Flutter & Dart
-* UI/UX Design
-* Responsive Design
-* Local Database
-* Firebase
-* State Management
-* RESTful APIs
-* Git
-* Testing & Debugging
-* Clean Architecture
+🌱 Currently improving my skills in advanced system design, performance tuning, and scalable backend architecture.
 
+📫 Open to backend development opportunities and collaboration on challenging projects.
+
+---
+
+### 🔥 Optional (small mention without focus)
+Also familiar with Flutter for building cross-platform mobile applications.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abdalasaber)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdalla-saber-a9190222b/)  
@@ -38,4 +48,8 @@ Skills:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdalasaber&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Abdalasaber)  
+
+
+
+
 
