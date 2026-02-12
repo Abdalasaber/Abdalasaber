@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | ASP.NET Core Web API Specialist</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" width="120" />
+  <img src="https://www.rishabhsoft.com/wp-content/uploads/2019/02/ASP.NET-Core-Features.jpg" />
 </p>
 
 ---
