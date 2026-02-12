@@ -1,55 +1,83 @@
-### Hi there 👋, my name is Abdalla Saber  
+<h1 align="center">Hi 👋 I'm Abdalla Saber</h1>
+<h3 align="center">Backend Developer | ASP.NET Core Web API Specialist</h3>
 
-#### I'm a Backend Developer specializing in ASP.NET Core and building scalable, secure, and high-performance Web APIs. I focus on designing clean architectures and delivering reliable backend solutions that power modern applications.
-(https://www.rishabhsoft.com/wp-content/uploads/2019/02/ASP.NET-Core-Features.jpg)
-🚀 I have hands-on experience developing RESTful APIs using ASP.NET Core, Entity Framework Core, and SQL Server. I work with a strong focus on clean code, performance optimization, and maintainability.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" width="120" />
+</p>
 
-🔐 Experienced in:
-- Authentication & Authorization (JWT)
-- Role-based access control
-- API security best practices
-- Database design & optimization
-- LINQ & Query optimization
+---
 
-🏗️ I apply Clean Architecture principles, Dependency Injection, and SOLID principles to build structured and scalable systems.
+## 🚀 About Me
 
-💼 I've worked on projects such as ERP systems, holiday management systems, and service-based platforms where I handled backend logic, database architecture, and API integration.
+I'm a Backend Developer specializing in building scalable, secure, and high-performance Web APIs using **ASP.NET Core**.
 
-🛠️ Tech Stack:
+I focus on writing clean, maintainable code and designing structured systems using modern backend best practices.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
 - ASP.NET Core Web API
 - C#
 - Entity Framework Core
 - SQL Server
 - LINQ
 - RESTful APIs
+
+### 🏗️ Architecture & Principles
 - Clean Architecture
+- SOLID Principles
 - Dependency Injection
+- Authentication & Authorization (JWT)
+- Role-Based Access Control
+- API Security Best Practices
+
+### 🔧 Tools
 - Git & GitHub
-- Postman & Swagger
-
-🌱 Currently improving my skills in advanced system design, performance tuning, and scalable backend architecture.
-
-📫 Open to backend development opportunities and collaboration on challenging projects.
+- Postman
+- Swagger
 
 ---
 
-### 🔥 Optional (small mention without focus)
-Also familiar with Flutter for building cross-platform mobile applications.
+## 💼 Project Experience
 
+- ERP Systems  
+- Holiday Management Systems  
+- Service-Based Platforms  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abdalasaber)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdalla-saber-a9190222b/)  
+In these projects, I handled:
+- Backend Business Logic
+- Database Design & Optimization
+- API Integration
+- Performance Tuning
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdalasaber)](https://github.com/ryo-ma/github-profile-trophy)
+## 🌱 Currently Learning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalasaber)](https://github.com/anuraghazra/github-readme-stats)
+- Advanced System Design
+- Scalable Backend Architectures
+- Performance Optimization Techniques
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdalasaber&show_icons=true)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/Abdalasaber)  
+## 📫 Connect With Me
 
+<p align="left">
+<a href="https://github.com/Abdalasaber" target="blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" />
+</a>
+<a href="https://www.linkedin.com/in/abdalla-saber-a9190222b/" target="blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" />
+</a>
+</p>
 
+---
 
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdalasaber&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalasaber&layout=compact)
 
